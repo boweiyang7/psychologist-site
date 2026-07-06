@@ -7,6 +7,7 @@ A clean static website inspired by the public structure of claudiagrozav.com, re
 - `index.html` — homepage with hero, introduction, services, fees, and contact
 - `services.html` — detailed service areas
 - `about.html` — biography, approach, and certifications
+- `articles.html` — articles, news, and consultation posts
 - `style.css` — responsive visual design
 - `script.js` — mobile menu and footer year
 
